@@ -1,0 +1,1 @@
+# plugins-tinywp-mobile-detect
