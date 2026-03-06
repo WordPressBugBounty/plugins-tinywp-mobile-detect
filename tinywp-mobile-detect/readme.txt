@@ -5,7 +5,7 @@ Tags: mobile, tablet, ipad, browsers, mobiledetect
 Requires at least: 3.0
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 3.1.0
+Stable tag: 3.1.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -64,6 +64,9 @@ none
 == Changelog ==
 
 Changelog for upstream Mobile Detect library can be found at [https://github.com/serbanghita/Mobile-Detect/releases](https://github.com/serbanghita/Mobile-Detect/releases).
+
+= 3.1.1 =
++ Fix for PHP deprecation notice.
 
 = 3.1.0 =
 + Restore old naming scheme.
