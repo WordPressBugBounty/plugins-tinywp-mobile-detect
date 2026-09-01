@@ -3,7 +3,7 @@ Contributors: pothi
 Donate link: https://paypal.me/pothi
 Tags: mobile, tablet, ipad, browsers, mobiledetect
 Requires at least: 3.0
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 3.1.1
 License: GPLv3
